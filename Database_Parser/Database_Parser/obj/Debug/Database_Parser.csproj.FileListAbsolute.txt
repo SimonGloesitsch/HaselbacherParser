@@ -1,1 +1,8 @@
 c:\users\felix\documents\visual studio 2015\Projects\Database_Parser\Database_Parser\bin\Debug\Database_Parser.exe.config
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\bin\Debug\Database_Parser.exe.config
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\bin\Debug\Database_Parser.exe
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\bin\Debug\Database_Parser.pdb
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\obj\Debug\Database_Parser.csprojResolveAssemblyReference.cache
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\obj\Debug\Database_Parser.exe
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\obj\Debug\Database_Parser.pdb
+C:\Users\Pfefferooney\Desktop\GitHeb\HaselbacherParser\Database_Parser\Database_Parser\bin\Debug\MySql.Data.dll
